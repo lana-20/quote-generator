@@ -1,5 +1,3 @@
-# quote-generator
-
 [Live Demo](https://lana-20.github.io/quote-generator/)
 
 I am creating a random quote generator. I am making an asynchronous fetch request to a [Rest API](https://type.fit/api/quotes) in order to get my [quotes](https://quotes-react.netlify.app/).
